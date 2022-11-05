@@ -10,3 +10,10 @@
     import 'relative/path/to/stylesheet.scss';
 
 */
+.box-1:hover {
+    
+    opacity: 100;
+  }
+.box-1 {
+    opacity: 0;
+}
